@@ -1,0 +1,4 @@
+pip install databricks-sql-connector<br>
+pip install databricks-sql-connector openai<br>
+pip install databricks-sql-connector[pyarrow]<br>
+pip install pandas
